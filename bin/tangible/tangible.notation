@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_FatocAdvEemmmr1o6Q4-PQ" type="PapyrusUMLClassDiagram" name="UCM deployment diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_FatocQdvEemmmr1o6Q4-PQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_FatocgdvEemmmr1o6Q4-PQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_FatocwdvEemmmr1o6Q4-PQ" diagramKindId="org.eclipse.papyrus.designer.ucm.diagram.deployment">
+      <owner href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+    </styles>
+    <element href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_FcfxIAdvEemmmr1o6Q4-PQ" type="CompositeStructure" name="UCM component diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_FcfxIQdvEemmmr1o6Q4-PQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_FcfxIgdvEemmmr1o6Q4-PQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_FcfxIwdvEemmmr1o6Q4-PQ" diagramKindId="org.eclipse.papyrus.designer.ucm.diagram.component">
+      <owner href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+    </styles>
+    <element href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_Fco7EAdvEemmmr1o6Q4-PQ" type="PapyrusUMLClassDiagram" name="UCM contract diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_Fco7EQdvEemmmr1o6Q4-PQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_Fco7EgdvEemmmr1o6Q4-PQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_Fco7EwdvEemmmr1o6Q4-PQ" diagramKindId="org.eclipse.papyrus.designer.ucm.diagram.contract">
+      <owner href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+    </styles>
+    <element href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_Fco7FAdvEemmmr1o6Q4-PQ" type="PapyrusUMLClassDiagram" name="UCM environment diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_Fco7FQdvEemmmr1o6Q4-PQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_Fco7FgdvEemmmr1o6Q4-PQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_Fco7FwdvEemmmr1o6Q4-PQ" diagramKindId="org.eclipse.papyrus.designer.ucm.diagram.environment">
+      <owner href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+    </styles>
+    <element href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_Fec48AdvEemmmr1o6Q4-PQ" type="PapyrusUMLClassDiagram" name="UCM module diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_Fec48QdvEemmmr1o6Q4-PQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_Fec48gdvEemmmr1o6Q4-PQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_Fec48wdvEemmmr1o6Q4-PQ" diagramKindId="org.eclipse.papyrus.designer.ucm.diagram.module">
+      <owner href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+    </styles>
+    <element href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_Femp8AdvEemmmr1o6Q4-PQ" type="PapyrusUMLClassDiagram" name="UCM technical policies diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_Femp8QdvEemmmr1o6Q4-PQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_Femp8gdvEemmmr1o6Q4-PQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_Femp8wdvEemmmr1o6Q4-PQ" diagramKindId="org.eclipse.papyrus.designer.ucm.diagram.techpolicies">
+      <owner href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+    </styles>
+    <element href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_Femp9AdvEemmmr1o6Q4-PQ" type="CompositeStructure" name="UCM interaction diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_Fevz4AdvEemmmr1o6Q4-PQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_Fevz4QdvEemmmr1o6Q4-PQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_Fevz4gdvEemmmr1o6Q4-PQ" diagramKindId="org.eclipse.papyrus.designer.ucm.diagram.interaction">
+      <owner href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+    </styles>
+    <element href="tangible.uml#_ET38MAdvEemmmr1o6Q4-PQ"/>
+  </notation:Diagram>
+</xmi:XMI>
